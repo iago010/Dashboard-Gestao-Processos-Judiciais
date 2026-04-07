@@ -1,0 +1,15 @@
+relationship ca5b1966-c26a-45a2-87f9-e40d1c993d2c
+	joinOnDateBehavior: datePartOnly
+	fromColumn: DJR_998.Autuação
+	toColumn: LocalDateTable_80866186-2d35-4e6b-8484-4df18d6b37cb.Date
+
+relationship ffded5b0-ab56-4bbe-80df-e3484c97f88d
+	joinOnDateBehavior: datePartOnly
+	fromColumn: DJR_998.Entrada
+	toColumn: LocalDateTable_a5462066-54f5-40ed-a1f3-d06ab2faf2d5.Date
+
+relationship a4b42bb6-c8fa-4490-887f-7cb336598ce0
+	joinOnDateBehavior: datePartOnly
+	fromColumn: DJR_998.Saída
+	toColumn: LocalDateTable_e38284cf-46a1-4f3c-b9e3-ba43a860f5f2.Date
+

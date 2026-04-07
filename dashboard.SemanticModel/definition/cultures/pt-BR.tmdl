@@ -1,0 +1,2921 @@
+cultureInfo pt-BR
+
+	linguisticMetadata =
+			{
+			  "Version": "4.1.0",
+			  "Language": "en-US",
+			  "Entities": {
+			    "djr_998": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "DJR_998"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "djr 998": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "DJR_998": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "djr_998.número_do_processo": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "DJR_998",
+			          "ConceptualProperty": "Número do Processo"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "número do processo": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "djr_998.número_antigo": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "DJR_998",
+			          "ConceptualProperty": "Número Antigo"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "número antigo": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "djr_998.vara": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "DJR_998",
+			          "ConceptualProperty": "Vara"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "vara": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "djr_998.autuação": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "DJR_998",
+			          "ConceptualProperty": "Autuação"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "autuação": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "date": {
+			            "State": "Generated",
+			            "Weight": 0.7
+			          }
+			        }
+			      ],
+			      "SemanticType": "Time"
+			    },
+			    "djr_998.autuação.hierarquia_de_data": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "DJR_998",
+			          "VariationSource": "Autuação",
+			          "VariationSet": "Variation",
+			          "Hierarchy": "Hierarquia de datas"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "hierarquia de data": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "hierarquia de information": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.762
+			          }
+			        },
+			        {
+			          "hierarquia de fact": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.762
+			          }
+			        },
+			        {
+			          "hierarquia de info": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.762
+			          }
+			        },
+			        {
+			          "hierarquia de statistic": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.762
+			          }
+			        },
+			        {
+			          "hierarquia de document": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.739
+			          }
+			        },
+			        {
+			          "hierarquia de figure": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.739
+			          }
+			        },
+			        {
+			          "hierarquia de record": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.739
+			          }
+			        }
+			      ]
+			    },
+			    "djr_998.autuação.ano": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "DJR_998",
+			          "VariationSource": "Autuação",
+			          "VariationSet": "Variation",
+			          "Hierarchy": "Hierarquia de datas",
+			          "HierarchyLevel": "Ano"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "ano": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "autuação ano": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "djr_998.autuação.trimestre": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "DJR_998",
+			          "VariationSource": "Autuação",
+			          "VariationSet": "Variation",
+			          "Hierarchy": "Hierarquia de datas",
+			          "HierarchyLevel": "Trimestre"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "trimestre": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "autuação trimestre": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "djr_998.autuação.mê": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "DJR_998",
+			          "VariationSource": "Autuação",
+			          "VariationSet": "Variation",
+			          "Hierarchy": "Hierarquia de datas",
+			          "HierarchyLevel": "Mês"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "mê": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "autuação mê": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "djr_998.autuação.dia": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "DJR_998",
+			          "VariationSource": "Autuação",
+			          "VariationSet": "Variation",
+			          "Hierarchy": "Hierarquia de datas",
+			          "HierarchyLevel": "Dia"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "dia": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "autuação dia": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "djr_998.status": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "DJR_998",
+			          "ConceptualProperty": "Status"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "status": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "category": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "importance": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "prestige": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "prominence": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "condition": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.714
+			          }
+			        },
+			        {
+			          "class": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.714
+			          }
+			        },
+			        {
+			          "grade": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.714
+			          }
+			        },
+			        {
+			          "level": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.714
+			          }
+			        },
+			        {
+			          "position": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.714
+			          }
+			        }
+			      ]
+			    },
+			    "djr_998.parte": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "DJR_998",
+			          "ConceptualProperty": "Parte"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "parte": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "djr_998.entrada": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "DJR_998",
+			          "ConceptualProperty": "Entrada"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "entrada": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "date": {
+			            "State": "Generated",
+			            "Weight": 0.7
+			          }
+			        }
+			      ],
+			      "SemanticType": "Time"
+			    },
+			    "djr_998.entrada.hierarquia_de_data": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "DJR_998",
+			          "VariationSource": "Entrada",
+			          "VariationSet": "Variation",
+			          "Hierarchy": "Hierarquia de datas"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "hierarquia de data": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "hierarquia de information": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.762
+			          }
+			        },
+			        {
+			          "hierarquia de fact": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.762
+			          }
+			        },
+			        {
+			          "hierarquia de info": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.762
+			          }
+			        },
+			        {
+			          "hierarquia de statistic": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.762
+			          }
+			        },
+			        {
+			          "hierarquia de document": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.739
+			          }
+			        },
+			        {
+			          "hierarquia de figure": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.739
+			          }
+			        },
+			        {
+			          "hierarquia de record": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.739
+			          }
+			        }
+			      ]
+			    },
+			    "djr_998.entrada.ano": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "DJR_998",
+			          "VariationSource": "Entrada",
+			          "VariationSet": "Variation",
+			          "Hierarchy": "Hierarquia de datas",
+			          "HierarchyLevel": "Ano"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "ano": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "entrada ano": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "djr_998.entrada.trimestre": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "DJR_998",
+			          "VariationSource": "Entrada",
+			          "VariationSet": "Variation",
+			          "Hierarchy": "Hierarquia de datas",
+			          "HierarchyLevel": "Trimestre"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "trimestre": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "entrada trimestre": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "djr_998.entrada.mê": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "DJR_998",
+			          "VariationSource": "Entrada",
+			          "VariationSet": "Variation",
+			          "Hierarchy": "Hierarquia de datas",
+			          "HierarchyLevel": "Mês"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "mê": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "entrada mê": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "djr_998.entrada.dia": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "DJR_998",
+			          "VariationSource": "Entrada",
+			          "VariationSet": "Variation",
+			          "Hierarchy": "Hierarquia de datas",
+			          "HierarchyLevel": "Dia"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "dia": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "entrada dia": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "djr_998.saída": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "DJR_998",
+			          "ConceptualProperty": "Saída"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "saída": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "date": {
+			            "State": "Generated",
+			            "Weight": 0.7
+			          }
+			        }
+			      ],
+			      "SemanticType": "Time"
+			    },
+			    "djr_998.saída.hierarquia_de_data": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "DJR_998",
+			          "VariationSource": "Saída",
+			          "VariationSet": "Variation",
+			          "Hierarchy": "Hierarquia de datas"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "hierarquia de data": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "hierarquia de information": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.762
+			          }
+			        },
+			        {
+			          "hierarquia de fact": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.762
+			          }
+			        },
+			        {
+			          "hierarquia de info": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.762
+			          }
+			        },
+			        {
+			          "hierarquia de statistic": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.762
+			          }
+			        },
+			        {
+			          "hierarquia de document": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.739
+			          }
+			        },
+			        {
+			          "hierarquia de figure": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.739
+			          }
+			        },
+			        {
+			          "hierarquia de record": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.739
+			          }
+			        }
+			      ]
+			    },
+			    "djr_998.saída.ano": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "DJR_998",
+			          "VariationSource": "Saída",
+			          "VariationSet": "Variation",
+			          "Hierarchy": "Hierarquia de datas",
+			          "HierarchyLevel": "Ano"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "ano": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "saída ano": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "djr_998.saída.trimestre": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "DJR_998",
+			          "VariationSource": "Saída",
+			          "VariationSet": "Variation",
+			          "Hierarchy": "Hierarquia de datas",
+			          "HierarchyLevel": "Trimestre"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "trimestre": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "saída trimestre": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "djr_998.saída.mê": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "DJR_998",
+			          "VariationSource": "Saída",
+			          "VariationSet": "Variation",
+			          "Hierarchy": "Hierarquia de datas",
+			          "HierarchyLevel": "Mês"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "mê": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "saída mê": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "djr_998.saída.dia": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "DJR_998",
+			          "VariationSource": "Saída",
+			          "VariationSet": "Variation",
+			          "Hierarchy": "Hierarquia de datas",
+			          "HierarchyLevel": "Dia"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "dia": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "saída dia": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "djr_998.coluna": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "DJR_998",
+			          "ConceptualProperty": "Coluna"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "coluna": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "djr_998.idade_processo": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "DJR_998",
+			          "ConceptualProperty": "Idade Processo"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "idade processo": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "djr_998.faixa_tempo": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "DJR_998",
+			          "ConceptualProperty": "Faixa Tempo"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "faixa tempo": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "faixa rhythm": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "faixa cadence": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "faixa beat": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "faixa speed": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "faixa pulse": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "faixa measure": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "faixa pace": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "faixa stroke": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        }
+			      ]
+			    },
+			    "djr_998.total_processos": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "DJR_998",
+			          "ConceptualProperty": "Total Processos"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "total processos": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "aggregate processo": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        },
+			        {
+			          "overall processo": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        }
+			      ]
+			    },
+			    "djr_998.processos_ativos": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "DJR_998",
+			          "ConceptualProperty": "Processos Ativos"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "processos ativos": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "djr_998.processos_arquivados": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "DJR_998",
+			          "ConceptualProperty": "Processos Arquivados"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "processos arquivados": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "djr_998.arquivado_cancelamento": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "DJR_998",
+			          "ConceptualProperty": "Arquivado Cancelamento"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "arquivado cancelamento": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "djr_998.arquivado_provisoriamente": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "DJR_998",
+			          "ConceptualProperty": "Arquivado provisoriamente"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "arquivado provisoriamente": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "djr_998.inst_superior": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "DJR_998",
+			          "ConceptualProperty": "inst superior"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "inst superior": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "djr_998.suspenso_ou_sobrestado": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "DJR_998",
+			          "ConceptualProperty": "Suspenso ou sobrestado"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "suspenso ou sobrestado": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "djr_998.ranking_vara": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "DJR_998",
+			          "ConceptualProperty": "Ranking Vara"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "ranking vara": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "djr_998.tipo_cliente": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "DJR_998",
+			          "ConceptualProperty": "Tipo Cliente"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "tipo cliente": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "djr_998.processos_antigos_ativos": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "DJR_998",
+			          "ConceptualProperty": "Processos Antigos Ativos"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "processos antigos ativos": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    }
+			  },
+			  "Relationships": {
+			    "djr_998_saída_mê_has_djr_998_saída_dia": {
+			      "Binding": {
+			        "ConceptualEntity": "DJR_998"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "djr_998.saída.mê": {
+			          "Target": {
+			            "Entity": "djr_998.saída.mê"
+			          }
+			        },
+			        "djr_998.saída.dia": {
+			          "Target": {
+			            "Entity": "djr_998.saída.dia"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "djr_998.saída.mê"
+			            },
+			            "Object": {
+			              "Role": "djr_998.saída.dia"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "mê_have_dias"
+			        },
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "djr_998.saída.dia"
+			            },
+			            "Object": {
+			              "Role": "djr_998.saída.mê"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dias_have_mê"
+			        },
+			        {
+			          "Preposition": {
+			            "Subject": {
+			              "Role": "djr_998.saída.dia"
+			            },
+			            "Prepositions": [
+			              {
+			                "in": {
+			                  "State": "Generated"
+			                }
+			              }
+			            ],
+			            "Object": {
+			              "Role": "djr_998.saída.mê"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dias_are_in_mê2"
+			        }
+			      ]
+			    },
+			    "djr_998_saída_trimestre_has_djr_998_saída_mê": {
+			      "Binding": {
+			        "ConceptualEntity": "DJR_998"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "djr_998.saída.trimestre": {
+			          "Target": {
+			            "Entity": "djr_998.saída.trimestre"
+			          }
+			        },
+			        "djr_998.saída.mê": {
+			          "Target": {
+			            "Entity": "djr_998.saída.mê"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "djr_998.saída.trimestre"
+			            },
+			            "Object": {
+			              "Role": "djr_998.saída.mê"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "trimestres_have_mê"
+			        },
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "djr_998.saída.mê"
+			            },
+			            "Object": {
+			              "Role": "djr_998.saída.trimestre"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "mê_have_trimestres"
+			        },
+			        {
+			          "Preposition": {
+			            "Subject": {
+			              "Role": "djr_998.saída.mê"
+			            },
+			            "Prepositions": [
+			              {
+			                "in": {
+			                  "State": "Generated"
+			                }
+			              }
+			            ],
+			            "Object": {
+			              "Role": "djr_998.saída.trimestre"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "mê_are_in_trimestres2"
+			        }
+			      ]
+			    },
+			    "djr_998_saída_ano_has_djr_998_saída_trimestre": {
+			      "Binding": {
+			        "ConceptualEntity": "DJR_998"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "djr_998.saída.ano": {
+			          "Target": {
+			            "Entity": "djr_998.saída.ano"
+			          }
+			        },
+			        "djr_998.saída.trimestre": {
+			          "Target": {
+			            "Entity": "djr_998.saída.trimestre"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "djr_998.saída.ano"
+			            },
+			            "Object": {
+			              "Role": "djr_998.saída.trimestre"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "anos_have_trimestres"
+			        },
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "djr_998.saída.trimestre"
+			            },
+			            "Object": {
+			              "Role": "djr_998.saída.ano"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "trimestres_have_anos"
+			        },
+			        {
+			          "Preposition": {
+			            "Subject": {
+			              "Role": "djr_998.saída.trimestre"
+			            },
+			            "Prepositions": [
+			              {
+			                "in": {
+			                  "State": "Generated"
+			                }
+			              }
+			            ],
+			            "Object": {
+			              "Role": "djr_998.saída.ano"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "trimestres_are_in_anos2"
+			        }
+			      ]
+			    },
+			    "djr_998_saída_hierarquia_de_data_has_djr_998_saída_dia": {
+			      "Binding": {
+			        "ConceptualEntity": "DJR_998"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "djr_998.saída.hierarquia_de_data": {
+			          "Target": {
+			            "Entity": "djr_998.saída.hierarquia_de_data"
+			          }
+			        },
+			        "djr_998.saída.dia": {
+			          "Target": {
+			            "Entity": "djr_998.saída.dia"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "djr_998.saída.hierarquia_de_data"
+			            },
+			            "Object": {
+			              "Role": "djr_998.saída.dia"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "hierarquia_de_data_have_dias"
+			        }
+			      ]
+			    },
+			    "djr_998_saída_hierarquia_de_data_has_djr_998_saída_mê": {
+			      "Binding": {
+			        "ConceptualEntity": "DJR_998"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "djr_998.saída.hierarquia_de_data": {
+			          "Target": {
+			            "Entity": "djr_998.saída.hierarquia_de_data"
+			          }
+			        },
+			        "djr_998.saída.mê": {
+			          "Target": {
+			            "Entity": "djr_998.saída.mê"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "djr_998.saída.hierarquia_de_data"
+			            },
+			            "Object": {
+			              "Role": "djr_998.saída.mê"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "hierarquia_de_data_have_mê"
+			        }
+			      ]
+			    },
+			    "djr_998_saída_hierarquia_de_data_has_djr_998_saída_trimestre": {
+			      "Binding": {
+			        "ConceptualEntity": "DJR_998"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "djr_998.saída.hierarquia_de_data": {
+			          "Target": {
+			            "Entity": "djr_998.saída.hierarquia_de_data"
+			          }
+			        },
+			        "djr_998.saída.trimestre": {
+			          "Target": {
+			            "Entity": "djr_998.saída.trimestre"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "djr_998.saída.hierarquia_de_data"
+			            },
+			            "Object": {
+			              "Role": "djr_998.saída.trimestre"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "hierarquia_de_data_have_trimestres"
+			        }
+			      ]
+			    },
+			    "djr_998_saída_hierarquia_de_data_has_djr_998_saída_ano": {
+			      "Binding": {
+			        "ConceptualEntity": "DJR_998"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "djr_998.saída.hierarquia_de_data": {
+			          "Target": {
+			            "Entity": "djr_998.saída.hierarquia_de_data"
+			          }
+			        },
+			        "djr_998.saída.ano": {
+			          "Target": {
+			            "Entity": "djr_998.saída.ano"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "djr_998.saída.hierarquia_de_data"
+			            },
+			            "Object": {
+			              "Role": "djr_998.saída.ano"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "hierarquia_de_data_have_anos"
+			        }
+			      ]
+			    },
+			    "djr_998_saída_has_hierarquia_de_data": {
+			      "Binding": {
+			        "ConceptualEntity": "DJR_998"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "djr_998.saída": {
+			          "Target": {
+			            "Entity": "djr_998.saída"
+			          }
+			        },
+			        "djr_998.saída.hierarquia_de_data": {
+			          "Target": {
+			            "Entity": "djr_998.saída.hierarquia_de_data"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "djr_998.saída"
+			            },
+			            "Object": {
+			              "Role": "djr_998.saída.hierarquia_de_data"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "saídas_have_hierarquia_de_data"
+			        }
+			      ]
+			    },
+			    "djr_998_entrada_mê_has_djr_998_entrada_dia": {
+			      "Binding": {
+			        "ConceptualEntity": "DJR_998"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "djr_998.entrada.mê": {
+			          "Target": {
+			            "Entity": "djr_998.entrada.mê"
+			          }
+			        },
+			        "djr_998.entrada.dia": {
+			          "Target": {
+			            "Entity": "djr_998.entrada.dia"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "djr_998.entrada.mê"
+			            },
+			            "Object": {
+			              "Role": "djr_998.entrada.dia"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "mê_have_dias1"
+			        },
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "djr_998.entrada.dia"
+			            },
+			            "Object": {
+			              "Role": "djr_998.entrada.mê"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dias_have_mê1"
+			        },
+			        {
+			          "Preposition": {
+			            "Subject": {
+			              "Role": "djr_998.entrada.dia"
+			            },
+			            "Prepositions": [
+			              {
+			                "in": {
+			                  "State": "Generated"
+			                }
+			              }
+			            ],
+			            "Object": {
+			              "Role": "djr_998.entrada.mê"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dias_are_in_mê1"
+			        }
+			      ]
+			    },
+			    "djr_998_entrada_trimestre_has_djr_998_entrada_mê": {
+			      "Binding": {
+			        "ConceptualEntity": "DJR_998"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "djr_998.entrada.trimestre": {
+			          "Target": {
+			            "Entity": "djr_998.entrada.trimestre"
+			          }
+			        },
+			        "djr_998.entrada.mê": {
+			          "Target": {
+			            "Entity": "djr_998.entrada.mê"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "djr_998.entrada.trimestre"
+			            },
+			            "Object": {
+			              "Role": "djr_998.entrada.mê"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "trimestres_have_mê1"
+			        },
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "djr_998.entrada.mê"
+			            },
+			            "Object": {
+			              "Role": "djr_998.entrada.trimestre"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "mê_have_trimestres1"
+			        },
+			        {
+			          "Preposition": {
+			            "Subject": {
+			              "Role": "djr_998.entrada.mê"
+			            },
+			            "Prepositions": [
+			              {
+			                "in": {
+			                  "State": "Generated"
+			                }
+			              }
+			            ],
+			            "Object": {
+			              "Role": "djr_998.entrada.trimestre"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "mê_are_in_trimestres1"
+			        }
+			      ]
+			    },
+			    "djr_998_entrada_ano_has_djr_998_entrada_trimestre": {
+			      "Binding": {
+			        "ConceptualEntity": "DJR_998"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "djr_998.entrada.ano": {
+			          "Target": {
+			            "Entity": "djr_998.entrada.ano"
+			          }
+			        },
+			        "djr_998.entrada.trimestre": {
+			          "Target": {
+			            "Entity": "djr_998.entrada.trimestre"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "djr_998.entrada.ano"
+			            },
+			            "Object": {
+			              "Role": "djr_998.entrada.trimestre"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "anos_have_trimestres1"
+			        },
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "djr_998.entrada.trimestre"
+			            },
+			            "Object": {
+			              "Role": "djr_998.entrada.ano"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "trimestres_have_anos1"
+			        },
+			        {
+			          "Preposition": {
+			            "Subject": {
+			              "Role": "djr_998.entrada.trimestre"
+			            },
+			            "Prepositions": [
+			              {
+			                "in": {
+			                  "State": "Generated"
+			                }
+			              }
+			            ],
+			            "Object": {
+			              "Role": "djr_998.entrada.ano"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "trimestres_are_in_anos1"
+			        }
+			      ]
+			    },
+			    "djr_998_entrada_hierarquia_de_data_has_djr_998_entrada_dia": {
+			      "Binding": {
+			        "ConceptualEntity": "DJR_998"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "djr_998.entrada.hierarquia_de_data": {
+			          "Target": {
+			            "Entity": "djr_998.entrada.hierarquia_de_data"
+			          }
+			        },
+			        "djr_998.entrada.dia": {
+			          "Target": {
+			            "Entity": "djr_998.entrada.dia"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "djr_998.entrada.hierarquia_de_data"
+			            },
+			            "Object": {
+			              "Role": "djr_998.entrada.dia"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "hierarquia_de_data_have_dias1"
+			        }
+			      ]
+			    },
+			    "djr_998_entrada_hierarquia_de_data_has_djr_998_entrada_mê": {
+			      "Binding": {
+			        "ConceptualEntity": "DJR_998"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "djr_998.entrada.hierarquia_de_data": {
+			          "Target": {
+			            "Entity": "djr_998.entrada.hierarquia_de_data"
+			          }
+			        },
+			        "djr_998.entrada.mê": {
+			          "Target": {
+			            "Entity": "djr_998.entrada.mê"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "djr_998.entrada.hierarquia_de_data"
+			            },
+			            "Object": {
+			              "Role": "djr_998.entrada.mê"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "hierarquia_de_data_have_mê1"
+			        }
+			      ]
+			    },
+			    "djr_998_entrada_hierarquia_de_data_has_djr_998_entrada_trimestre": {
+			      "Binding": {
+			        "ConceptualEntity": "DJR_998"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "djr_998.entrada.hierarquia_de_data": {
+			          "Target": {
+			            "Entity": "djr_998.entrada.hierarquia_de_data"
+			          }
+			        },
+			        "djr_998.entrada.trimestre": {
+			          "Target": {
+			            "Entity": "djr_998.entrada.trimestre"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "djr_998.entrada.hierarquia_de_data"
+			            },
+			            "Object": {
+			              "Role": "djr_998.entrada.trimestre"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "hierarquia_de_data_have_trimestres1"
+			        }
+			      ]
+			    },
+			    "djr_998_entrada_hierarquia_de_data_has_djr_998_entrada_ano": {
+			      "Binding": {
+			        "ConceptualEntity": "DJR_998"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "djr_998.entrada.hierarquia_de_data": {
+			          "Target": {
+			            "Entity": "djr_998.entrada.hierarquia_de_data"
+			          }
+			        },
+			        "djr_998.entrada.ano": {
+			          "Target": {
+			            "Entity": "djr_998.entrada.ano"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "djr_998.entrada.hierarquia_de_data"
+			            },
+			            "Object": {
+			              "Role": "djr_998.entrada.ano"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "hierarquia_de_data_have_anos1"
+			        }
+			      ]
+			    },
+			    "djr_998_entrada_has_hierarquia_de_data": {
+			      "Binding": {
+			        "ConceptualEntity": "DJR_998"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "djr_998.entrada": {
+			          "Target": {
+			            "Entity": "djr_998.entrada"
+			          }
+			        },
+			        "djr_998.entrada.hierarquia_de_data": {
+			          "Target": {
+			            "Entity": "djr_998.entrada.hierarquia_de_data"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "djr_998.entrada"
+			            },
+			            "Object": {
+			              "Role": "djr_998.entrada.hierarquia_de_data"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "entradas_have_hierarquia_de_data"
+			        }
+			      ]
+			    },
+			    "djr_998_autuação_mê_has_djr_998_autuação_dia": {
+			      "Binding": {
+			        "ConceptualEntity": "DJR_998"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "djr_998.autuação.mê": {
+			          "Target": {
+			            "Entity": "djr_998.autuação.mê"
+			          }
+			        },
+			        "djr_998.autuação.dia": {
+			          "Target": {
+			            "Entity": "djr_998.autuação.dia"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "djr_998.autuação.mê"
+			            },
+			            "Object": {
+			              "Role": "djr_998.autuação.dia"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "mê_have_dias2"
+			        },
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "djr_998.autuação.dia"
+			            },
+			            "Object": {
+			              "Role": "djr_998.autuação.mê"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dias_have_mê2"
+			        },
+			        {
+			          "Preposition": {
+			            "Subject": {
+			              "Role": "djr_998.autuação.dia"
+			            },
+			            "Prepositions": [
+			              {
+			                "in": {
+			                  "State": "Generated"
+			                }
+			              }
+			            ],
+			            "Object": {
+			              "Role": "djr_998.autuação.mê"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "dias_are_in_mê"
+			        }
+			      ]
+			    },
+			    "djr_998_autuação_trimestre_has_djr_998_autuação_mê": {
+			      "Binding": {
+			        "ConceptualEntity": "DJR_998"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "djr_998.autuação.trimestre": {
+			          "Target": {
+			            "Entity": "djr_998.autuação.trimestre"
+			          }
+			        },
+			        "djr_998.autuação.mê": {
+			          "Target": {
+			            "Entity": "djr_998.autuação.mê"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "djr_998.autuação.trimestre"
+			            },
+			            "Object": {
+			              "Role": "djr_998.autuação.mê"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "trimestres_have_mê2"
+			        },
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "djr_998.autuação.mê"
+			            },
+			            "Object": {
+			              "Role": "djr_998.autuação.trimestre"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "mê_have_trimestres2"
+			        },
+			        {
+			          "Preposition": {
+			            "Subject": {
+			              "Role": "djr_998.autuação.mê"
+			            },
+			            "Prepositions": [
+			              {
+			                "in": {
+			                  "State": "Generated"
+			                }
+			              }
+			            ],
+			            "Object": {
+			              "Role": "djr_998.autuação.trimestre"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "mê_are_in_trimestres"
+			        }
+			      ]
+			    },
+			    "djr_998_autuação_ano_has_djr_998_autuação_trimestre": {
+			      "Binding": {
+			        "ConceptualEntity": "DJR_998"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "djr_998.autuação.ano": {
+			          "Target": {
+			            "Entity": "djr_998.autuação.ano"
+			          }
+			        },
+			        "djr_998.autuação.trimestre": {
+			          "Target": {
+			            "Entity": "djr_998.autuação.trimestre"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "djr_998.autuação.ano"
+			            },
+			            "Object": {
+			              "Role": "djr_998.autuação.trimestre"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "anos_have_trimestres2"
+			        },
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "djr_998.autuação.trimestre"
+			            },
+			            "Object": {
+			              "Role": "djr_998.autuação.ano"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "trimestres_have_anos2"
+			        },
+			        {
+			          "Preposition": {
+			            "Subject": {
+			              "Role": "djr_998.autuação.trimestre"
+			            },
+			            "Prepositions": [
+			              {
+			                "in": {
+			                  "State": "Generated"
+			                }
+			              }
+			            ],
+			            "Object": {
+			              "Role": "djr_998.autuação.ano"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "trimestres_are_in_anos"
+			        }
+			      ]
+			    },
+			    "djr_998_autuação_hierarquia_de_data_has_djr_998_autuação_dia": {
+			      "Binding": {
+			        "ConceptualEntity": "DJR_998"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "djr_998.autuação.hierarquia_de_data": {
+			          "Target": {
+			            "Entity": "djr_998.autuação.hierarquia_de_data"
+			          }
+			        },
+			        "djr_998.autuação.dia": {
+			          "Target": {
+			            "Entity": "djr_998.autuação.dia"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "djr_998.autuação.hierarquia_de_data"
+			            },
+			            "Object": {
+			              "Role": "djr_998.autuação.dia"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "hierarquia_de_data_have_dias2"
+			        }
+			      ]
+			    },
+			    "djr_998_autuação_hierarquia_de_data_has_djr_998_autuação_mê": {
+			      "Binding": {
+			        "ConceptualEntity": "DJR_998"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "djr_998.autuação.hierarquia_de_data": {
+			          "Target": {
+			            "Entity": "djr_998.autuação.hierarquia_de_data"
+			          }
+			        },
+			        "djr_998.autuação.mê": {
+			          "Target": {
+			            "Entity": "djr_998.autuação.mê"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "djr_998.autuação.hierarquia_de_data"
+			            },
+			            "Object": {
+			              "Role": "djr_998.autuação.mê"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "hierarquia_de_data_have_mê2"
+			        }
+			      ]
+			    },
+			    "djr_998_autuação_hierarquia_de_data_has_djr_998_autuação_trimestre": {
+			      "Binding": {
+			        "ConceptualEntity": "DJR_998"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "djr_998.autuação.hierarquia_de_data": {
+			          "Target": {
+			            "Entity": "djr_998.autuação.hierarquia_de_data"
+			          }
+			        },
+			        "djr_998.autuação.trimestre": {
+			          "Target": {
+			            "Entity": "djr_998.autuação.trimestre"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "djr_998.autuação.hierarquia_de_data"
+			            },
+			            "Object": {
+			              "Role": "djr_998.autuação.trimestre"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "hierarquia_de_data_have_trimestres2"
+			        }
+			      ]
+			    },
+			    "djr_998_autuação_hierarquia_de_data_has_djr_998_autuação_ano": {
+			      "Binding": {
+			        "ConceptualEntity": "DJR_998"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "djr_998.autuação.hierarquia_de_data": {
+			          "Target": {
+			            "Entity": "djr_998.autuação.hierarquia_de_data"
+			          }
+			        },
+			        "djr_998.autuação.ano": {
+			          "Target": {
+			            "Entity": "djr_998.autuação.ano"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "djr_998.autuação.hierarquia_de_data"
+			            },
+			            "Object": {
+			              "Role": "djr_998.autuação.ano"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "hierarquia_de_data_have_anos2"
+			        }
+			      ]
+			    },
+			    "djr_998_autuação_has_hierarquia_de_data": {
+			      "Binding": {
+			        "ConceptualEntity": "DJR_998"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "djr_998.autuação": {
+			          "Target": {
+			            "Entity": "djr_998.autuação"
+			          }
+			        },
+			        "djr_998.autuação.hierarquia_de_data": {
+			          "Target": {
+			            "Entity": "djr_998.autuação.hierarquia_de_data"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "djr_998.autuação"
+			            },
+			            "Object": {
+			              "Role": "djr_998.autuação.hierarquia_de_data"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "autuaçãos_have_hierarquia_de_data"
+			        }
+			      ]
+			    },
+			    "djr_998_has_processos_antigos_ativos": {
+			      "Binding": {
+			        "ConceptualEntity": "DJR_998"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "djr_998": {
+			          "Target": {
+			            "Entity": "djr_998"
+			          }
+			        },
+			        "djr_998.processos_antigos_ativos": {
+			          "Target": {
+			            "Entity": "djr_998.processos_antigos_ativos"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "djr_998"
+			            },
+			            "Object": {
+			              "Role": "djr_998.processos_antigos_ativos"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "djr_998_have_processos_antigos_ativos"
+			        }
+			      ]
+			    },
+			    "djr_998_has_tipo_cliente": {
+			      "Binding": {
+			        "ConceptualEntity": "DJR_998"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "djr_998": {
+			          "Target": {
+			            "Entity": "djr_998"
+			          }
+			        },
+			        "djr_998.tipo_cliente": {
+			          "Target": {
+			            "Entity": "djr_998.tipo_cliente"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "djr_998"
+			            },
+			            "Object": {
+			              "Role": "djr_998.tipo_cliente"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "djr_998_have_tipo_cliente"
+			        }
+			      ]
+			    },
+			    "djr_998_has_ranking_vara": {
+			      "Binding": {
+			        "ConceptualEntity": "DJR_998"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "djr_998": {
+			          "Target": {
+			            "Entity": "djr_998"
+			          }
+			        },
+			        "djr_998.ranking_vara": {
+			          "Target": {
+			            "Entity": "djr_998.ranking_vara"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "djr_998"
+			            },
+			            "Object": {
+			              "Role": "djr_998.ranking_vara"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "djr_998_have_ranking_vara"
+			        }
+			      ]
+			    },
+			    "djr_998_has_suspenso_ou_sobrestado": {
+			      "Binding": {
+			        "ConceptualEntity": "DJR_998"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "djr_998": {
+			          "Target": {
+			            "Entity": "djr_998"
+			          }
+			        },
+			        "djr_998.suspenso_ou_sobrestado": {
+			          "Target": {
+			            "Entity": "djr_998.suspenso_ou_sobrestado"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "djr_998"
+			            },
+			            "Object": {
+			              "Role": "djr_998.suspenso_ou_sobrestado"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "djr_998_have_suspenso_ou_sobrestado"
+			        }
+			      ]
+			    },
+			    "djr_998_has_inst_superior": {
+			      "Binding": {
+			        "ConceptualEntity": "DJR_998"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "djr_998": {
+			          "Target": {
+			            "Entity": "djr_998"
+			          }
+			        },
+			        "djr_998.inst_superior": {
+			          "Target": {
+			            "Entity": "djr_998.inst_superior"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "djr_998"
+			            },
+			            "Object": {
+			              "Role": "djr_998.inst_superior"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "djr_998_have_inst_superior"
+			        }
+			      ]
+			    },
+			    "djr_998_has_arquivado_provisoriamente": {
+			      "Binding": {
+			        "ConceptualEntity": "DJR_998"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "djr_998": {
+			          "Target": {
+			            "Entity": "djr_998"
+			          }
+			        },
+			        "djr_998.arquivado_provisoriamente": {
+			          "Target": {
+			            "Entity": "djr_998.arquivado_provisoriamente"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "djr_998"
+			            },
+			            "Object": {
+			              "Role": "djr_998.arquivado_provisoriamente"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "djr_998_have_arquivado_provisoriamente"
+			        }
+			      ]
+			    },
+			    "djr_998_has_arquivado_cancelamento": {
+			      "Binding": {
+			        "ConceptualEntity": "DJR_998"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "djr_998": {
+			          "Target": {
+			            "Entity": "djr_998"
+			          }
+			        },
+			        "djr_998.arquivado_cancelamento": {
+			          "Target": {
+			            "Entity": "djr_998.arquivado_cancelamento"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "djr_998"
+			            },
+			            "Object": {
+			              "Role": "djr_998.arquivado_cancelamento"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "djr_998_have_arquivado_cancelamento"
+			        }
+			      ]
+			    },
+			    "djr_998_has_processos_arquivados": {
+			      "Binding": {
+			        "ConceptualEntity": "DJR_998"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "djr_998": {
+			          "Target": {
+			            "Entity": "djr_998"
+			          }
+			        },
+			        "djr_998.processos_arquivados": {
+			          "Target": {
+			            "Entity": "djr_998.processos_arquivados"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "djr_998"
+			            },
+			            "Object": {
+			              "Role": "djr_998.processos_arquivados"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "djr_998_have_processos_arquivados"
+			        }
+			      ]
+			    },
+			    "djr_998_has_processos_ativos": {
+			      "Binding": {
+			        "ConceptualEntity": "DJR_998"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "djr_998": {
+			          "Target": {
+			            "Entity": "djr_998"
+			          }
+			        },
+			        "djr_998.processos_ativos": {
+			          "Target": {
+			            "Entity": "djr_998.processos_ativos"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "djr_998"
+			            },
+			            "Object": {
+			              "Role": "djr_998.processos_ativos"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "djr_998_have_processos_ativos"
+			        }
+			      ]
+			    },
+			    "djr_998_has_total_processos": {
+			      "Binding": {
+			        "ConceptualEntity": "DJR_998"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "djr_998": {
+			          "Target": {
+			            "Entity": "djr_998"
+			          }
+			        },
+			        "djr_998.total_processos": {
+			          "Target": {
+			            "Entity": "djr_998.total_processos"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "djr_998"
+			            },
+			            "Object": {
+			              "Role": "djr_998.total_processos"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "djr_998_have_total_processos"
+			        }
+			      ]
+			    },
+			    "djr_998_has_faixa_tempo": {
+			      "Binding": {
+			        "ConceptualEntity": "DJR_998"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "djr_998": {
+			          "Target": {
+			            "Entity": "djr_998"
+			          }
+			        },
+			        "djr_998.faixa_tempo": {
+			          "Target": {
+			            "Entity": "djr_998.faixa_tempo"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "djr_998"
+			            },
+			            "Object": {
+			              "Role": "djr_998.faixa_tempo"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "djr_998_have_faixa_tempi"
+			        }
+			      ]
+			    },
+			    "djr_998_has_idade_processo": {
+			      "Binding": {
+			        "ConceptualEntity": "DJR_998"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "djr_998": {
+			          "Target": {
+			            "Entity": "djr_998"
+			          }
+			        },
+			        "djr_998.idade_processo": {
+			          "Target": {
+			            "Entity": "djr_998.idade_processo"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "djr_998"
+			            },
+			            "Object": {
+			              "Role": "djr_998.idade_processo"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "djr_998_have_idade_processos"
+			        }
+			      ]
+			    },
+			    "djr_998_has_coluna": {
+			      "Binding": {
+			        "ConceptualEntity": "DJR_998"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "djr_998": {
+			          "Target": {
+			            "Entity": "djr_998"
+			          }
+			        },
+			        "djr_998.coluna": {
+			          "Target": {
+			            "Entity": "djr_998.coluna"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "djr_998"
+			            },
+			            "Object": {
+			              "Role": "djr_998.coluna"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "djr_998_have_colunas"
+			        }
+			      ]
+			    },
+			    "djr_998_has_saída": {
+			      "Binding": {
+			        "ConceptualEntity": "DJR_998"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "djr_998": {
+			          "Target": {
+			            "Entity": "djr_998"
+			          }
+			        },
+			        "djr_998.saída": {
+			          "Target": {
+			            "Entity": "djr_998.saída"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "djr_998"
+			            },
+			            "Object": {
+			              "Role": "djr_998.saída"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "djr_998_have_saídas"
+			        }
+			      ]
+			    },
+			    "djr_998_has_entrada": {
+			      "Binding": {
+			        "ConceptualEntity": "DJR_998"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "djr_998": {
+			          "Target": {
+			            "Entity": "djr_998"
+			          }
+			        },
+			        "djr_998.entrada": {
+			          "Target": {
+			            "Entity": "djr_998.entrada"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "djr_998"
+			            },
+			            "Object": {
+			              "Role": "djr_998.entrada"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "djr_998_have_entradas"
+			        }
+			      ]
+			    },
+			    "djr_998_has_parte": {
+			      "Binding": {
+			        "ConceptualEntity": "DJR_998"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "djr_998": {
+			          "Target": {
+			            "Entity": "djr_998"
+			          }
+			        },
+			        "djr_998.parte": {
+			          "Target": {
+			            "Entity": "djr_998.parte"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "djr_998"
+			            },
+			            "Object": {
+			              "Role": "djr_998.parte"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "djr_998_have_parte"
+			        }
+			      ]
+			    },
+			    "djr_998_has_status": {
+			      "Binding": {
+			        "ConceptualEntity": "DJR_998"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "djr_998": {
+			          "Target": {
+			            "Entity": "djr_998"
+			          }
+			        },
+			        "djr_998.status": {
+			          "Target": {
+			            "Entity": "djr_998.status"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "djr_998"
+			            },
+			            "Object": {
+			              "Role": "djr_998.status"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "djr_998_have_statuses"
+			        }
+			      ]
+			    },
+			    "djr_998_has_autuação": {
+			      "Binding": {
+			        "ConceptualEntity": "DJR_998"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "djr_998": {
+			          "Target": {
+			            "Entity": "djr_998"
+			          }
+			        },
+			        "djr_998.autuação": {
+			          "Target": {
+			            "Entity": "djr_998.autuação"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "djr_998"
+			            },
+			            "Object": {
+			              "Role": "djr_998.autuação"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "djr_998_have_autuaçãos"
+			        }
+			      ]
+			    },
+			    "djr_998_has_vara": {
+			      "Binding": {
+			        "ConceptualEntity": "DJR_998"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "djr_998": {
+			          "Target": {
+			            "Entity": "djr_998"
+			          }
+			        },
+			        "djr_998.vara": {
+			          "Target": {
+			            "Entity": "djr_998.vara"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "djr_998"
+			            },
+			            "Object": {
+			              "Role": "djr_998.vara"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "djr_998_have_varas"
+			        }
+			      ]
+			    },
+			    "djr_998_has_número_antigo": {
+			      "Binding": {
+			        "ConceptualEntity": "DJR_998"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "djr_998": {
+			          "Target": {
+			            "Entity": "djr_998"
+			          }
+			        },
+			        "djr_998.número_antigo": {
+			          "Target": {
+			            "Entity": "djr_998.número_antigo"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "djr_998"
+			            },
+			            "Object": {
+			              "Role": "djr_998.número_antigo"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "djr_998_have_número_antigo"
+			        }
+			      ]
+			    },
+			    "djr_998_has_número_do_processo": {
+			      "Binding": {
+			        "ConceptualEntity": "DJR_998"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "djr_998": {
+			          "Target": {
+			            "Entity": "djr_998"
+			          }
+			        },
+			        "djr_998.número_do_processo": {
+			          "Target": {
+			            "Entity": "djr_998.número_do_processo"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "djr_998"
+			            },
+			            "Object": {
+			              "Role": "djr_998.número_do_processo"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "djr_998_have_número_do_processos"
+			        }
+			      ]
+			    }
+			  },
+			  "Agents": {
+			    "Internal": {
+			      "Version": "1.1.0"
+			    }
+			  }
+			}
+		contentType: json
+
